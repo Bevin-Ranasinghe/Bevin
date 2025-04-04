@@ -23,12 +23,7 @@ int main() {
     std::reverse(str.begin(), str.end());
     std::cout << "Reversed: " << str << "\n";
     
-    return 0;
-
-
-
-
-    
+        return 0;
 }
 
 
